@@ -28,3 +28,4 @@ virtualenv and UPX are recommended to make it smaller, faster, and less detected
 If you still need help, join [CheatAway](https://cheataway.com) it's a good server you should join, just ping me for help.
 
 Enjoy :)
+20 🌟 = FUD Builder
