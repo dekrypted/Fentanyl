@@ -25,7 +25,6 @@ Setup is really simple, it's like any other logger. <br>
 `pyinstaller --clean --onefile --key <any key> fenty.py` <br>
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected <br>
-If you still need help, join [CheatAway](https://cheataway.com) it's a good server you should join, just ping me for help.
 
 Enjoy :)
 20 🌟 = FUD Builder
